@@ -5,7 +5,7 @@
 
     import pandas as pd    #Library of pandas as pd
     
-    eceboards = pd.read_csv('board2.csv') #opens and reads the file 'board2.csv' and transfers the dataframe to 'eceboards'
+    eceboards = pd.read_excel('board2.xlsx') #opens and reads the file 'board2.csv' and transfers the dataframe to 'eceboards'
     eceboards
 
 <img width="518" height="798" alt="image" src="https://github.com/user-attachments/assets/3645e3c8-2ab8-4b44-a634-5cac62015d52" />
